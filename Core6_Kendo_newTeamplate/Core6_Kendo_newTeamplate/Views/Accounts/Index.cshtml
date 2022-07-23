@@ -1,0 +1,25 @@
+﻿ 
+
+@{
+    ViewBag.Title = "Licence";
+    string formName = "Licence";
+}
+<div id="forms-body_@formName">
+    <partial name="Create" />
+</div>
+
+<div class="card cardList">
+  <div class="card-header border-bottom">
+    <h5 class="card-title">List Account</h5>
+
+    <partial name="_List" />
+
+  </div>
+
+</div>
+
+@section Scripts {
+    <script>
+        setActiveMenue('اکانت')
+    </script>
+}

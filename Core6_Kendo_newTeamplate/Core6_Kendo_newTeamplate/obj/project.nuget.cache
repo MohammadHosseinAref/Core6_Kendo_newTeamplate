@@ -1,8 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "kyuFfpvM6si+tq51Nm+Gq+O45f8jiQxHzAeq3egErzdlsklDDvVWKAJvVCHz41+2HgH2rk6p0NxF0WqzQFtHYg==",
+  "dgSpecHash": "PVnKrwkny/vaBHQqVBEUv4m9ZD1u+YB2jH/Ix6jRHytWc7bWpxpC2mWualTT+YBIohmTV8UElvazpC4DkduL6w==",
   "success": true,
   "projectFilePath": "D:\\Projects\\Core6_Kendo_newTeamplate\\Core6_Kendo_newTeamplate\\Core6_Kendo_newTeamplate\\Core6_Kendo_newTeamplate.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\moham\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\6.0.7\\microsoft.aspnetcore.jsonpatch.6.0.7.nupkg.sha512",
+    "C:\\Users\\moham\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\6.0.7\\microsoft.aspnetcore.mvc.newtonsoftjson.6.0.7.nupkg.sha512",
+    "C:\\Users\\moham\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\moham\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\moham\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512"
+  ],
   "logs": []
 }

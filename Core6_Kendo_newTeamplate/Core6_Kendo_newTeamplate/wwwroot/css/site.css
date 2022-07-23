@@ -1,18 +1,25 @@
-html {
-  font-size: 14px;
+
+@font-face {
+    font-family: 'IRANSansWeb';
 }
 
-@media (min-width: 768px) {
-  html {
-    font-size: 16px;
-  }
+@font-face {
+    font-family: 'IRANSansWeb';
 }
 
-html {
-  position: relative;
-  min-height: 100%;
+@font-face {
+    font-family: 'IRANSansWeb';
 }
 
 body {
-  margin-bottom: 60px;
+    font-family: "IRANSansWeb" !important;
+    font-size: 20px;
+    color: black !important;
+}
+.field-validation-error{
+    color:red;
+}
+
+.cardList {
+    margin-top: 22px;
 }

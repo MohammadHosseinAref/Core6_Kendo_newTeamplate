@@ -15,6 +15,22 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = D:\Projects\Core6_Kendo_newTeamplate\Core6_Kendo_newTeamplate\Core6_Kendo_newTeamplate
 build_property._RazorSourceGeneratorDebug = 
 
+[D:/Projects/Core6_Kendo_newTeamplate/Core6_Kendo_newTeamplate/Core6_Kendo_newTeamplate/Views/Accounts/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/Core6_Kendo_newTeamplate/Core6_Kendo_newTeamplate/Core6_Kendo_newTeamplate/Views/Accounts/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/Core6_Kendo_newTeamplate/Core6_Kendo_newTeamplate/Core6_Kendo_newTeamplate/Views/Accounts/_CreateOrEdit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudHNcX0NyZWF0ZU9yRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/Core6_Kendo_newTeamplate/Core6_Kendo_newTeamplate/Core6_Kendo_newTeamplate/Views/Accounts/_List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudHNcX0xpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/Projects/Core6_Kendo_newTeamplate/Core6_Kendo_newTeamplate/Core6_Kendo_newTeamplate/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
@@ -25,6 +41,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [D:/Projects/Core6_Kendo_newTeamplate/Core6_Kendo_newTeamplate/Core6_Kendo_newTeamplate/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/Core6_Kendo_newTeamplate/Core6_Kendo_newTeamplate/Core6_Kendo_newTeamplate/Views/Shared/_menue.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9tZW51ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/Projects/Core6_Kendo_newTeamplate/Core6_Kendo_newTeamplate/Core6_Kendo_newTeamplate/Views/Shared/_ValidationScriptsPartial.cshtml]
