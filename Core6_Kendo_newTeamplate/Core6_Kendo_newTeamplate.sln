@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core6_Kendo_newTeamplate", "Core6_Kendo_newTeamplate\Core6_Kendo_newTeamplate.csproj", "{28822F88-AF4F-497B-BD73-A6B39E288D31}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{28822F88-AF4F-497B-BD73-A6B39E288D31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28822F88-AF4F-497B-BD73-A6B39E288D31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28822F88-AF4F-497B-BD73-A6B39E288D31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28822F88-AF4F-497B-BD73-A6B39E288D31}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2DCFC46E-65F8-452C-90C7-2E2E27DF2389}
+	EndGlobalSection
+EndGlobal
