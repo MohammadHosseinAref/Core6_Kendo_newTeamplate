@@ -9,7 +9,7 @@ namespace Core6_Kendo_newTeamplate.Controllers
     {
         public int Id { get; set; }
         [Display(Name = "Name")]
-        public string Name { get; set; }
+        public string Name { get; set; }    
         public byte Code { get; set; }
     }
     public class AccountsController : Controller
